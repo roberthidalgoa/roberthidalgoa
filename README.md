@@ -119,7 +119,7 @@ Apaixonado por boas práticas, escalabilidade e soluções robustas para problem
 
 ### 📊 Percentual de uso (GitHub)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberthidalgoa&layout=compact&theme=tokyonight"/>
 </p>
 
 ### 🌟 Linguagens em destaque
@@ -133,13 +133,13 @@ Apaixonado por boas práticas, escalabilidade e soluções robustas para problem
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=roberthidalgoa&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roberthidalgoa&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roberthidalgoa&theme=tokyo-night"/>
 </p>
 
 ---
