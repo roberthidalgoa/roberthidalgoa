@@ -91,11 +91,6 @@ Dispositivos integrados: leitores faciais, biometria, sirenes e dispositivos ele
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chromebooks-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Infrastructure_Level_III-6A737B?style=for-the-badge"/>
-</p>
-<p align="left">
-Infraestrutura nível III: servers, switches, storage, blade, tape libraries, NAS, UPS, cloud.
 </p>
 
 ---
