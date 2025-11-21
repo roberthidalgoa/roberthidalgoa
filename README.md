@@ -80,9 +80,6 @@ Planejamento, desenho e implementação de soluções completas, integrando soft
   <img src="https://img.shields.io/badge/TCP/IP-0033A0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RS485-555555?style=for-the-badge"/>
 </p>
-<p align="left">
-Dispositivos integrados: leitores faciais, biometria, sirenes e dispositivos eletromecânicos.
-</p>
 
 ---
 
@@ -103,7 +100,7 @@ Dispositivos integrados: leitores faciais, biometria, sirenes e dispositivos ele
   <img src="https://img.shields.io/badge/Waterfall-4B0082?style=for-the-badge"/>
 </p>
 <p align="left">
-🛠️ Ferramentas
+🛠️ Ferramentas:
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
