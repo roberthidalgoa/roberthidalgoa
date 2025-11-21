@@ -149,33 +149,6 @@ Ferramentas:
 
 ---
 
-## 🎓 Certificações
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-Java%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-Master-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Projetos em Destaque
-| Projeto | Descrição | Tecnologias |
-|---------|------------|-------------|
-| [Sistema Financeiro](https://github.com/seuusuario/financeiro) | Plataforma para gestão financeira corporativa. | Java, Spring Boot, PostgreSQL |
-| [API de Integração](https://github.com/seuusuario/api-integracao) | API REST para integração com sistemas externos. | Node.js, Express, Docker |
-| [Automação de Processos](https://github.com/seuusuario/automacao) | Scripts para automatizar processos internos. | Python, Selenium |
-
----
-
-## 🗓️ Minha Jornada
-- **2025** - Analista de Sistemas Sênior na **[Empresa Atual]**  
-- **2022** - Analista Pleno na **[Empresa Anterior]**  
-- **2019** - Conclusão da graduação em **[Curso]**  
-- **2015** - Primeiro estágio em **[Área]**
-
----
-
 ## 💻 Minhas Linguagens Mais Usadas
 
 ### 📊 Percentual de uso (GitHub)
