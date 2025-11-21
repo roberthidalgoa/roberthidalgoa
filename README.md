@@ -95,13 +95,6 @@ Dispositivos integrados: leitores faciais, biometria, sirenes e dispositivos ele
 
 ---
 
-## 🚀 Gestão do Ciclo de Vida de Software
-<p align="left">
-Requisitos, histórias de usuário, backlogs, roadmaps, testes manuais e funcionais, documentação, manuais, POCs, criação de ambientes de teste e validação.
-</p>
-
----
-
 ## 📋 Metodologias & Gestão de Projetos
 <p align="left">
   <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
@@ -110,7 +103,7 @@ Requisitos, histórias de usuário, backlogs, roadmaps, testes manuais e funcion
   <img src="https://img.shields.io/badge/Waterfall-4B0082?style=for-the-badge"/>
 </p>
 <p align="left">
-Ferramentas:
+### 🛠️ **Ferramentas que utilizo**
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
