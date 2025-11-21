@@ -103,7 +103,7 @@ Dispositivos integrados: leitores faciais, biometria, sirenes e dispositivos ele
   <img src="https://img.shields.io/badge/Waterfall-4B0082?style=for-the-badge"/>
 </p>
 <p align="left">
-### 🛠️ **Ferramentas que utilizo**
+🛠️ Ferramentas
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
