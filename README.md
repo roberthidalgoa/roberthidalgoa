@@ -96,9 +96,10 @@ Planejamento, desenho e implementação de soluções completas, integrando soft
   <img src="https://img.shields.io/badge/Lean-239D60?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Waterfall-4B0082?style=for-the-badge"/>
 </p>
-<p align="left">
-🛠️ Ferramentas:
-</p>
+
+---
+
+## 🛠️ Ferramentas:
 <p align="left">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
