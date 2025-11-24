@@ -14,7 +14,7 @@ Engenheiro em Informática com mais de 10 anos de experiência em tecnologia, at
 ---
 
 ## 🏗️ Arquitetura & Engenharia de Soluções
-<p align="left">
+<p align="justify">
 Planejamento, desenho e implementação de soluções completas, integrando software, automação, sistemas embarcados, infraestrutura e comunicação entre dispositivos.
 </p>
 
