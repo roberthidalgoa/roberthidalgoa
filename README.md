@@ -5,7 +5,9 @@
 ---
 
 ## 🌐 Sobre mim
+<p align="justify">
 Engenheiro em Informática com mais de 10 anos de experiência em tecnologia, atuando em análise de sistemas, desenvolvimento full stack, arquitetura de soluções e liderança técnica. Especialista em levantamento e modelagem de requisitos, integrações entre sistemas, desenho de APIs, bancos de dados, padrões de arquitetura e suporte à entrega de software. Forte atuação em prototipação, UI/UX, QA, documentação técnica e metodologias ágeis. Experiência em projetos internacionais e grandes implantações corporativas em larga escala, garantindo alinhamento entre negócio e tecnologia.
+</p>
 
 - 📫 Contato: [LinkedIn](https://linkedin.com/in/roberthidalgoa) | [E-mail](mailto:roberthidalgoa@gmail.com)
 
