@@ -20,6 +20,30 @@ Planejamento, desenho e implementação de soluções completas, integrando soft
 
 ---
 
+## 💻 Minhas Linguagens Mais Usadas
+<div align="center": inline_block"><br>
+  <img align="center" alt="Lau-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Lau-Node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="Lau-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
+---
+
+### 🌟 Linguagens em destaque
+<div align="center": inline_block"><br>
+  <img align="center" alt="Lau-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Lau-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Lau-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Lau-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Lau-Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+  <img align="center" alt="Lau-Node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="Lau-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Lau-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Lau-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
+</div>
+
+---
+
 ## 💻 Linguagens de Programação
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -130,20 +154,6 @@ Planejamento, desenho e implementação de soluções completas, integrando soft
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge"/>
-</p>
-
----
-
-## 💻 Minhas Linguagens Mais Usadas
-
-### 📊 Percentual de uso (GitHub)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberthidalgoa&layout=compact&theme=tokyonight"/>
-</p>
-
-### 🌟 Linguagens em destaque
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
