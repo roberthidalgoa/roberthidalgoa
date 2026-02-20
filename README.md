@@ -1,12 +1,12 @@
 <!-- Título com seu nome -->
 <h1 align="center">👋 Olá, eu sou Robert</h1>
-<h3 align="center">Analista de Sistemas Sênior | Full Stack | Arquitetura e Engenharia de Soluções</h3>
+<h3 align="center">Analista de Sistemas Sênior | Full Stack | IA Generativa | Arquitetura e Engenharia de Soluções</h3>
 
 ---
 
 ## 🌐 Sobre mim
 <p align="justify">
-Engenheiro em Informática com mais de 10 anos de experiência em tecnologia, atuando em análise de sistemas, desenvolvimento full stack, arquitetura de soluções e liderança técnica. Especialista em levantamento e modelagem de requisitos, integrações entre sistemas, desenho de APIs, bancos de dados, padrões de arquitetura e suporte à entrega de software. Forte atuação em prototipação, UI/UX, QA, documentação técnica e metodologias ágeis. Experiência em projetos internacionais e grandes implantações corporativas em larga escala, garantindo alinhamento entre negócio e tecnologia.
+Engenheiro em Informática com mais de 10 anos de experiência em tecnologia, atuando em análise de sistemas, desenvolvimento full stack, arquitetura de soluções, sistemas embarcados, liderança técnica e implementação de soluções com IA Generativa. Experiência no uso de IA para automação de processos, apoio à decisão e otimização de fluxos de negócio. Especialista em levantamento e modelagem de requisitos, integrações entre sistemas, desenho de APIs, bancos de dados, padrões de arquitetura e suporte à entrega de software. Forte atuação em prototipação, UI/UX, QA, documentação técnica e metodologias ágeis. Experiência em projetos internacionais e grandes implantações corporativas em larga escala, garantindo alinhamento entre negócio e tecnologia.
 </p>
 
 - 📫 Contato: [LinkedIn](https://linkedin.com/in/roberthidalgoa) | [E-mail](mailto:roberthidalgoa@gmail.com)
