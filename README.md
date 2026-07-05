@@ -6,7 +6,9 @@
 
 ## 🌐 Sobre mim
 <p align="justify">
-Engenheiro em Informática com mais de 10 anos de experiência em tecnologia, atuando em análise de sistemas, desenvolvimento full stack, arquitetura de soluções, sistemas embarcados, liderança técnica e implementação de soluções com IA Generativa. Experiência no uso de IA para automação de processos, apoio à decisão e otimização de fluxos de negócio. Especialista em levantamento e modelagem de requisitos, integrações entre sistemas, desenho de APIs, bancos de dados, padrões de arquitetura e suporte à entrega de software. Forte atuação em prototipação, UI/UX, QA, documentação técnica e metodologias ágeis. Experiência em projetos internacionais e grandes implantações corporativas em larga escala, garantindo alinhamento entre negócio e tecnologia.
+Engenheiro em Informática com mais de 10 anos de experiência em tecnologia, atuando em arquitetura de soluções, desenvolvimento Full Stack, análise de sistemas, liderança técnica e integração de plataformas corporativas. Experiência na concepção e implementação de aplicações escaláveis utilizando arquiteturas modernas baseadas em tecnologias Web, Cloud, Microsserviços, Sistemas Distribuídos, IoT, Sistemas Embarcados e IA Generativa.
+Atuação em todo o ciclo de vida de software, desde o levantamento de requisitos, arquitetura e modelagem de soluções até desenvolvimento, testes, implantação e sustentação. Experiência na integração entre sistemas, APIs, bancos de dados, dispositivos IoT e serviços em nuvem, sempre alinhando objetivos de negócio às melhores práticas de engenharia de software.
+Vivência em projetos nacionais e internacionais de grande porte, utilizando IA Generativa para automação de processos, apoio à decisão, otimização de fluxos operacionais e aumento da produtividade de equipes de desenvolvimento.
 </p>
 
 - 📫 Contato: [LinkedIn](https://linkedin.com/in/roberthidalgoa) | [E-mail](mailto:roberthidalgoa@gmail.com)
