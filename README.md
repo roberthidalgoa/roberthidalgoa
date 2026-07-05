@@ -1,6 +1,6 @@
 <!-- Título com seu nome -->
 <h1 align="center">👋 Olá, eu sou Robert</h1>
-<h3 align="center">Analista de Sistemas Sênior | Full Stack | IA Generativa | Arquitetura e Engenharia de Soluções</h3>
+<h3 align="center">Arquiteto de Soluções | Engenheiro de Software | IA Generativa | Full Stack | Cloud</h3>
 
 ---
 
